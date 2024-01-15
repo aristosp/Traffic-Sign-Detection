@@ -3,6 +3,7 @@ This project was developed during my efforts to self-learn Python. This reposito
 
 ![Screenshot_6](https://github.com/aristosp/Traffic-Sign-Detection/assets/62808962/7cfcd65d-2415-486e-ac89-7ddf417f91e8)
 
+The network is a simple CNN, developed after trial and error. There may be signs of overfitting, but the results of the test set are satisfactory, as the accuracy reaches approximately 96% and the loss ~0.12. Example predictions can be seen below:
 
 
 
