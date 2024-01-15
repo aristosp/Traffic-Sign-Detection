@@ -5,6 +5,7 @@ This project was developed during my efforts to self-learn Python. This reposito
 
 The network is a simple CNN, developed after trial and error. There may be signs of overfitting, but the results of the test set are satisfactory, as the accuracy reaches approximately 96% and the loss ~0.12. Example predictions can be seen below:
 
+![Screenshot_3](https://github.com/aristosp/Traffic-Sign-Detection/assets/62808962/2ff49d21-3b39-4bce-a046-e29a1d6fdc33)
 
 
 [Modern Computer Vision with Pytorch]: https://www.oreilly.com/library/view/modern-computer-vision/9781839213472/
