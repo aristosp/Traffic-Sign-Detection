@@ -1,5 +1,7 @@
 # Traffic-Sign-Detection
-This project was developed during my efforts to self-learn Python. This repository is based on Chapter 6 of [Modern Computer Vision with Pytorch]. Traffic Sign Detetion is a commmon problem in image classification. The dataset used can be found in the following [link]. A csv file(train.csv) was created using the CSV Creator.py containing the following columns: Filepath,Sign Name,5 Digit Int Label,1 Digit Int Label.
+This project was developed during my efforts to self-learn Python. This repository is based on Chapter 6 of [Modern Computer Vision with Pytorch]. Traffic Sign Detetion is a commmon problem in image classification. The dataset used can be found in the following [link]. A csv file(train.csv) was created using the CSV Creator.py containing the following columns: Filepath,Sign Name,5 Digit Int Label,1 Digit Int Label. Examples of the images in the dataset can be seen below:
+
+![Screenshot_6](https://github.com/aristosp/Traffic-Sign-Detection/assets/62808962/7cfcd65d-2415-486e-ac89-7ddf417f91e8)
 
 
 
